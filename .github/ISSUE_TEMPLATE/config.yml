@@ -1,0 +1,8 @@
+blank_issues_enabled: false  # Prevents users from submitting unstructured issues
+contact_links:
+  - name: ❓ General Questions & Discussions
+    url: https://github.com/Ahren27/cForge/discussions
+    about: If you have a general question, use GitHub Discussions instead.
+  - name: 🔐 Security Reports
+    url: https://github.com/Ahren27/cForge/security/advisories
+    about: If you found a security vulnerability, report it privately here.
