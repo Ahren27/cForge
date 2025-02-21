@@ -5,7 +5,8 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/Ahren27/cForge?style=social)](https://github.com/Ahren27/cForge/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Ahren27/cForge?style=social)](https://github.com/Ahren27/cForge/network/members)
 [![GitHub License](https://img.shields.io/github/license/Ahren27/cForge)](LICENSE)
-[![GitHub CI](https://github.com/Ahren27/cForge/workflows/Build/badge.svg)](https://github.com/Ahren27/cForge/actions)
+[![GitHub CI](https://github.com/Ahren27/cForge/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahren27/cForge/actions)
+
 
 cForge is a **custom C library** that extends standard C with **powerful string, memory, file, process, system, and networking functions.** Unlike traditional libc replacements, cForge enhances development by **adding missing utilities, high-level abstractions, and developer-friendly tools** while staying **lightweight and dependency-free.**
 
