@@ -29,3 +29,36 @@ cForge is a **custom C library** that extends standard C with **powerful string,
 ```sh
 git clone https://github.com/Ahren27/cForge.git
 cd cForge
+```
+
+### **🔨 Build the Library**
+
+```sh
+make
+```
+
+### **✅ Run Tests**
+
+```sh
+make test
+```
+
+## 🛠 Usage Example
+
+```c
+#include <cforge.h>
+
+int main() {
+    printf("File exists? %d\n", fexists("test.txt"));
+    printf("File size: %ld bytes\n", fsize("test.txt"));
+    return 0;
+}
+
+```
+
+Compile and run:
+
+```sh
+gcc example.c -o example -L. -lcforge
+./example
+```
