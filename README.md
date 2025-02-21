@@ -1,6 +1,6 @@
 # cForge – Extend C with More Power 🚀  
 
-![cForge Logo](docs/logo.png)
+![cForge Logo](docs/logo.jpeg)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/Ahren27/cForge?style=social)](https://github.com/Ahren27/cForge/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Ahren27/cForge?style=social)](https://github.com/Ahren27/cForge/network/members)
