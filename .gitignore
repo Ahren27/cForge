@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# CMake build directory
+build/
+
+# Editor / OS files
+.vs/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
