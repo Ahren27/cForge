@@ -1,10 +1,12 @@
-<div align="center">
-
-<img src="docs/assets/cforge-social-preview.jpg" alt="cForge — C Standard Library Reimplementation" width="100%">
-
 # cForge
 
-**A C Standard Library Reimplementation**
+<div align="center">
+
+<img src="docs/assets/cforge-social-preview.jpg"
+     alt="cForge — C Standard Library Reimplementation"
+     width="100%">
+
+<strong>C Standard Library Reimplementation</strong>
 
 [![C](https://img.shields.io/badge/C-C17-00599C?logo=c&logoColor=white)](https://en.cppreference.com/w/c/17)
 [![CMake](https://img.shields.io/badge/CMake-Build-064F8C?logo=cmake&logoColor=white)](https://cmake.org/)
@@ -14,7 +16,9 @@
 [![License](https://img.shields.io/github/license/Ahren27/cforge)](LICENSE)
 [![Code Style](https://img.shields.io/badge/code%20style-clang--format-blue)](https://clang.llvm.org/docs/ClangFormat.html)
 
-*A from-scratch implementation of C standard library functionality, built to explore systems programming, memory management, library interfaces, testing, debugging, and portable C.*
+*A from-scratch implementation of C standard library functionality, built to
+explore systems programming, memory management, library interfaces, testing,
+debugging, and portable C.*
 
 </div>
 
@@ -22,9 +26,12 @@
 
 ## About
 
-**cForge** is a from-scratch reimplementation of functionality from the C Standard Library.
+**cForge** is a from-scratch reimplementation of functionality from the C
+Standard Library.
 
-The project is designed as a hands-on systems programming exercise for developing a deeper understanding of how common C library functions behave beneath their familiar APIs.
+The project is designed as a hands-on systems programming exercise for
+developing a deeper understanding of how common C library functions behave
+beneath their familiar APIs.
 
 Rather than simply reproducing function signatures, cForge focuses on:
 
@@ -39,7 +46,8 @@ Rather than simply reproducing function signatures, cForge focuses on:
 - Professional Git and pull-request workflows
 
 > [!IMPORTANT]
-> cForge is an educational project and is **not intended to replace a production system C library** such as glibc, musl, or the platform-provided libc.
+> cForge is an educational project and is **not intended to replace a production
+> system C library** such as glibc, musl, or the platform-provided libc.
 
 ---
 
@@ -541,13 +549,3 @@ The project aims to reproduce behavior specified by applicable C standards where
 This project is distributed under the terms described in [`LICENSE`](LICENSE).
 
 ---
-
-<div align="center">
-
-### cForge
-
-**C Standard Library Reimplementation**
-
-Built to understand C from the inside out.
-
-</div>
