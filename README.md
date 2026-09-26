@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="docs/assets/cforge-social-preview.jpg"
+<img src="docs/assets/cForge-social-preview.jpg"
      alt="cForge — C Standard Library Reimplementation"
      width="100%">
 
