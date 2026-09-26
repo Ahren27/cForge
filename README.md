@@ -12,8 +12,8 @@
 [![CMake](https://img.shields.io/badge/CMake-Build-064F8C?logo=cmake&logoColor=white)](https://cmake.org/)
 [![GCC](https://img.shields.io/badge/GCC-Supported-5C6BC0?logo=gnu&logoColor=white)](https://gcc.gnu.org/)
 [![Clang](https://img.shields.io/badge/Clang-Supported-262D3A?logo=llvm&logoColor=white)](https://clang.llvm.org/)
-[![CI](https://github.com/Ahren27/cforge/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahren27/cforge/actions/workflows/ci.yml)
-[![License](https://img.shields.io/github/license/Ahren27/cforge)](LICENSE)
+[![CI](https://github.com/Ahren27/cForge/actions/workflows/ci.yml/badge.svg)](https://github.com/Ahren27/cForge/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/Ahren27/cForge)](LICENSE)
 [![Code Style](https://img.shields.io/badge/code%20style-clang--format-blue)](https://clang.llvm.org/docs/ClangFormat.html)
 
 *A from-scratch implementation of C standard library functionality, built to
